@@ -1,7 +1,7 @@
 ## Hi there 👋
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://br.linkedin.com/pub/gabriel-silva/24/74/907/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://br.linkedin.com/pub/gabriel-silva/24/74/907/)
 
-Problem solving is my morning coffee (and I used to own a coffee shop as well, so that was convenient :D). I have a rich background in Chemical Engineering, Business Management, and Data Science. With a solid educational foundation and a diverse professional history, leveraging fruitful experience in data analysis, machine learning, and business intelligence to drive strategic decision-making and enhance operational efficiencies.
+Problem solving is my morning coffee (and I used to own a coffee shop as well, so that was convenient :grin:). I have a rich background in Chemical Engineering, Business Management, and Data Science. With a solid educational foundation and a diverse professional history, leveraging fruitful experience in data analysis, machine learning, and business intelligence to drive strategic decision-making and enhance operational efficiencies.
 
 ## What I've used in my projects so far
 
@@ -28,25 +28,25 @@ Problem solving is my morning coffee (and I used to own a coffee shop as well, s
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-FF0000?style=flat-square&logo=oracle&logoColor=white)
 
+**GitHub Stats** by [anuraghazra](https://github.com/anuraghazra)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbmelo&count_private=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbmelo&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
-## Portfolio
-- **Building and Feeding a Star Schema Database:**
+<details> <summary><h2>Portfolio</h2></summary>
+ 
+- [**Building and Feeding a Star Schema Database:**](https://github.com/gabbmelo/NewsletterAnaliseMPE)
   - Developed a star schema database for sales data analysis in SQL Developer.
   - Documented the project in a weekly newsletter on a professional network.
-  - **Repository link:** [Newsletter Analise MPE](https://github.com/gabbmelo/NewsletterAnaliseMPE)
 
-- **Predicting Add-On Sales Recommendations Using Machine Learning:**
+- [**Predicting Add-On Sales Recommendations Using Machine Learning:**](https://github.com/gabbmelo/BonusBandejas)
   - Developed an add-on sales model for a coffee shop, applying comprehensive data analysis and machine learning.
   - Evaluated and validated predictive performance of different models to increase operational revenue.
-  - **Repository link:** [Bonus Bandejas](https://github.com/gabbmelo/BonusBandejas)
 
-- **Transfer Learning Project:**
+- [**Transfer Learning Project:**](https://github.com/gabbmelo/transfer-learning-colab/tree/main)
   - Applied transfer learning techniques to a deep learning model using Python in a Google Colab environment.
   - Used an ImageNet dataset to classify images of cats and dogs, showcasing the effectiveness of transfer learning.
   - Demonstrated how to replace the dataset with custom images, such as personal photos, to adapt the model to new classification tasks.
-  - **Repository link:** [Transfer Learning Project](https://github.com/gabbmelo/transfer-learning-colab/tree/main)
-
+</details>
