@@ -3,7 +3,7 @@
 
 Problem solving is my morning coffee (and I used to own a coffee shop as well, so that was convenient :D). I have a rich background in Chemical Engineering, Business Management, and Data Science. With a solid educational foundation and a diverse professional history, leveraging fruitful experience in data analysis, machine learning, and business intelligence to drive strategic decision-making and enhance operational efficiencies.
 
-## Hard Skills
+## What I've used in my projects so far
 
 **Programming & Tools:**
 
@@ -28,21 +28,8 @@ Problem solving is my morning coffee (and I used to own a coffee shop as well, s
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-FF0000?style=flat-square&logo=oracle&logoColor=white)
 
-## Soft Skills
-
-- Leadership
-- Problem-Solving
-- Analytical Thinking
-- Communication
-- Team Collaboration
-- Customer Relationship Management
-  
-## Courses
-- **Oracle SQL Bootcamp, DBAOCM Education,** Bootcamp Oracle Introduction to SQL, 30 hours, Jul 2024
-- **Data Science in Agribusiness, Agroadvance,** 100 hours, Jul 2023
-- **BI: DW com SQL Server, Alura Tech,** BI and Data Warehouse with SQL Server and Power BI, 66 hours, Jan 2023
-- **Power BI Training, Alura Tech,** 55 hours, 2022
-- **IAESTE Program, University of Gdańsk,** International internship, Poland, 2011
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbmelo)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Portfolio
 - **Building and Feeding a Star Schema Database:**
