@@ -28,8 +28,10 @@ Problem solving is my morning coffee (and I used to own a coffee shop as well, s
 ![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-F2C811?style=flat-square&logo=power-bi&logoColor=white)
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-FF0000?style=flat-square&logo=oracle&logoColor=white)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbmelo)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbmelo)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabbmelo&count_private=true&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabbmelo&theme=catppuccin_latte)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Portfolio
 - **Building and Feeding a Star Schema Database:**
