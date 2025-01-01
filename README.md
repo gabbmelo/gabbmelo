@@ -1,7 +1,7 @@
 ## Hi there 👋
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) [Gabriel Silva](http://br.linkedin.com/pub/gabriel-silva/24/74/907/)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://br.linkedin.com/pub/gabriel-silva/24/74/907/)
 
-Problem solving is my morning coffee. I have a rich background in Chemical Engineering, Business Management, and Data Science. With a solid educational foundation and a diverse professional history, leveraging fruitful experience in data analysis, machine learning, and business intelligence to drive strategic decision-making and enhance operational efficiencies.
+Problem solving is my morning coffee (and I used to own a coffee shop as well, so that was convenient :D). I have a rich background in Chemical Engineering, Business Management, and Data Science. With a solid educational foundation and a diverse professional history, leveraging fruitful experience in data analysis, machine learning, and business intelligence to drive strategic decision-making and enhance operational efficiencies.
 
 ## Hard Skills
 
@@ -36,30 +36,13 @@ Problem solving is my morning coffee. I have a rich background in Chemical Engin
 - Communication
 - Team Collaboration
 - Customer Relationship Management
-
-## Diplomas and Certificates
-- **MBA in Business Management, Fundação Getúlio Vargas,** 2022
-- **Bachelor's in Chemical Engineering, Escola Politécnica da Universidade de São Paulo,** 2012
-
+  
 ## Courses
 - **Oracle SQL Bootcamp, DBAOCM Education,** Bootcamp Oracle Introduction to SQL, 30 hours, Jul 2024
 - **Data Science in Agribusiness, Agroadvance,** 100 hours, Jul 2023
 - **BI: DW com SQL Server, Alura Tech,** BI and Data Warehouse with SQL Server and Power BI, 66 hours, Jan 2023
 - **Power BI Training, Alura Tech,** 55 hours, 2022
 - **IAESTE Program, University of Gdańsk,** International internship, Poland, 2011
-
-## Professional Experience
-
-### Data Analysis and Machine Learning
-- **Owner, Cafeteria Montese LTDA** | 2021 – Sep 2024
-  - Increased revenue by 35%; applied machine learning algorithms and SQL database development.
-  - Implemented business intelligence dashboards for revenue and sales tracking.
-  - **Metrics:** Weekly sales and recommendations, portfolio profitability.
-
-## Language Proficiency
-- **Portuguese:** Native speaker
-- **English:** Fluent
-- **Spanish and French:** Basic
 
 ## Portfolio
 - **Building and Feeding a Star Schema Database:**
